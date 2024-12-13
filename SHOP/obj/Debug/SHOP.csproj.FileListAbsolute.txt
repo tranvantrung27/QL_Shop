@@ -1,0 +1,96 @@
+E:\QUAN LY SHOP BAN QUAN AO\SHOP\SHOP\bin\Debug\SHOP.exe.config
+E:\QUAN LY SHOP BAN QUAN AO\SHOP\SHOP\bin\Debug\SHOP.exe
+E:\QUAN LY SHOP BAN QUAN AO\SHOP\SHOP\bin\Debug\SHOP.pdb
+E:\QUAN LY SHOP BAN QUAN AO\SHOP\SHOP\obj\Debug\SHOP.csproj.AssemblyReference.cache
+E:\QUAN LY SHOP BAN QUAN AO\SHOP\SHOP\obj\Debug\SHOP.FrmDangNhap.resources
+E:\QUAN LY SHOP BAN QUAN AO\SHOP\SHOP\obj\Debug\SHOP.Properties.Resources.resources
+E:\QUAN LY SHOP BAN QUAN AO\SHOP\SHOP\obj\Debug\SHOP.csproj.GenerateResource.cache
+E:\QUAN LY SHOP BAN QUAN AO\SHOP\SHOP\obj\Debug\SHOP.csproj.CoreCompileInputs.cache
+E:\QUAN LY SHOP BAN QUAN AO\SHOP\SHOP\obj\Debug\SHOP.exe
+E:\QUAN LY SHOP BAN QUAN AO\SHOP\SHOP\obj\Debug\SHOP.pdb
+E:\QUAN LY SHOP BAN QUAN AO\SHOP\SHOP\obj\Debug\SHOP.trangchu.resources
+E:\QUAN LY SHOP BAN QUAN AO\SHOP\SHOP\obj\Debug\SHOP.FrmQuanlyhang.resources
+E:\QUAN LY SHOP BAN QUAN AO\SHOP\SHOP\obj\Debug\SHOP.frmtaodonhang.resources
+E:\QUAN LY SHOP BAN QUAN AO\SHOP\SHOP\obj\Debug\SHOP.frmkhohang.resources
+E:\QUAN LY SHOP BAN QUAN AO\SHOP\SHOP\obj\Debug\SHOP.frmnhacungcap.resources
+E:\QUAN LY SHOP BAN QUAN AO\SHOP\SHOP\obj\Debug\SHOP.frmnhaphang.resources
+E:\QUAN LY SHOP BAN QUAN AO\SHOP\SHOP\obj\Debug\SHOP.frmquanlynhanvien.resources
+E:\QUAN LY SHOP BAN QUAN AO\SHOP\SHOP\bin\Debug\GenericNumbers.dll
+E:\QUAN LY SHOP BAN QUAN AO\SHOP\SHOP\bin\Debug\LiveCharts.dll
+E:\QUAN LY SHOP BAN QUAN AO\SHOP\SHOP\bin\Debug\LiveCharts.WinForms.dll
+E:\QUAN LY SHOP BAN QUAN AO\SHOP\SHOP\bin\Debug\LiveCharts.Wpf.dll
+E:\QUAN LY SHOP BAN QUAN AO\SHOP\SHOP\bin\Debug\LiveLinq.dll
+E:\QUAN LY SHOP BAN QUAN AO\SHOP\SHOP\bin\Debug\MoreCollections.dll
+E:\QUAN LY SHOP BAN QUAN AO\SHOP\SHOP\bin\Debug\SimpleMonads.dll
+E:\QUAN LY SHOP BAN QUAN AO\SHOP\SHOP\bin\Debug\System.Buffers.dll
+E:\QUAN LY SHOP BAN QUAN AO\SHOP\SHOP\bin\Debug\System.Collections.Immutable.dll
+E:\QUAN LY SHOP BAN QUAN AO\SHOP\SHOP\bin\Debug\System.Memory.dll
+E:\QUAN LY SHOP BAN QUAN AO\SHOP\SHOP\bin\Debug\System.Numerics.Vectors.dll
+E:\QUAN LY SHOP BAN QUAN AO\SHOP\SHOP\bin\Debug\System.Reactive.dll
+E:\QUAN LY SHOP BAN QUAN AO\SHOP\SHOP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\QUAN LY SHOP BAN QUAN AO\SHOP\SHOP\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\QUAN LY SHOP BAN QUAN AO\SHOP\SHOP\bin\Debug\System.ValueTuple.dll
+E:\QUAN LY SHOP BAN QUAN AO\SHOP\SHOP\bin\Debug\UtilityDisposables.dll
+E:\QUAN LY SHOP BAN QUAN AO\SHOP\SHOP\bin\Debug\LiveCharts.pdb
+E:\QUAN LY SHOP BAN QUAN AO\SHOP\SHOP\bin\Debug\LiveCharts.xml
+E:\QUAN LY SHOP BAN QUAN AO\SHOP\SHOP\bin\Debug\LiveCharts.WinForms.pdb
+E:\QUAN LY SHOP BAN QUAN AO\SHOP\SHOP\bin\Debug\LiveCharts.WinForms.xml
+E:\QUAN LY SHOP BAN QUAN AO\SHOP\SHOP\bin\Debug\LiveCharts.Wpf.pdb
+E:\QUAN LY SHOP BAN QUAN AO\SHOP\SHOP\bin\Debug\LiveCharts.Wpf.xml
+E:\QUAN LY SHOP BAN QUAN AO\SHOP\SHOP\bin\Debug\System.Buffers.xml
+E:\QUAN LY SHOP BAN QUAN AO\SHOP\SHOP\bin\Debug\System.Collections.Immutable.xml
+E:\QUAN LY SHOP BAN QUAN AO\SHOP\SHOP\bin\Debug\System.Memory.xml
+E:\QUAN LY SHOP BAN QUAN AO\SHOP\SHOP\bin\Debug\System.Numerics.Vectors.xml
+E:\QUAN LY SHOP BAN QUAN AO\SHOP\SHOP\bin\Debug\System.Reactive.xml
+E:\QUAN LY SHOP BAN QUAN AO\SHOP\SHOP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\QUAN LY SHOP BAN QUAN AO\SHOP\SHOP\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\QUAN LY SHOP BAN QUAN AO\SHOP\SHOP\bin\Debug\System.ValueTuple.xml
+E:\QUAN LY SHOP BAN QUAN AO\SHOP\SHOP\obj\Debug\SHOP.csproj.Up2Date
+D:\VisualStudio\SHOP\SHOP\bin\Debug\SHOP.exe.config
+D:\VisualStudio\SHOP\SHOP\bin\Debug\SHOP.exe
+D:\VisualStudio\SHOP\SHOP\bin\Debug\SHOP.pdb
+D:\VisualStudio\SHOP\SHOP\bin\Debug\GenericNumbers.dll
+D:\VisualStudio\SHOP\SHOP\bin\Debug\LiveCharts.dll
+D:\VisualStudio\SHOP\SHOP\bin\Debug\LiveCharts.WinForms.dll
+D:\VisualStudio\SHOP\SHOP\bin\Debug\LiveCharts.Wpf.dll
+D:\VisualStudio\SHOP\SHOP\bin\Debug\LiveLinq.dll
+D:\VisualStudio\SHOP\SHOP\bin\Debug\MoreCollections.dll
+D:\VisualStudio\SHOP\SHOP\bin\Debug\SimpleMonads.dll
+D:\VisualStudio\SHOP\SHOP\bin\Debug\System.Buffers.dll
+D:\VisualStudio\SHOP\SHOP\bin\Debug\System.Collections.Immutable.dll
+D:\VisualStudio\SHOP\SHOP\bin\Debug\System.Memory.dll
+D:\VisualStudio\SHOP\SHOP\bin\Debug\System.Numerics.Vectors.dll
+D:\VisualStudio\SHOP\SHOP\bin\Debug\System.Reactive.dll
+D:\VisualStudio\SHOP\SHOP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\VisualStudio\SHOP\SHOP\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\VisualStudio\SHOP\SHOP\bin\Debug\System.ValueTuple.dll
+D:\VisualStudio\SHOP\SHOP\bin\Debug\UtilityDisposables.dll
+D:\VisualStudio\SHOP\SHOP\bin\Debug\LiveCharts.pdb
+D:\VisualStudio\SHOP\SHOP\bin\Debug\LiveCharts.xml
+D:\VisualStudio\SHOP\SHOP\bin\Debug\LiveCharts.WinForms.pdb
+D:\VisualStudio\SHOP\SHOP\bin\Debug\LiveCharts.WinForms.xml
+D:\VisualStudio\SHOP\SHOP\bin\Debug\LiveCharts.Wpf.pdb
+D:\VisualStudio\SHOP\SHOP\bin\Debug\LiveCharts.Wpf.xml
+D:\VisualStudio\SHOP\SHOP\bin\Debug\System.Buffers.xml
+D:\VisualStudio\SHOP\SHOP\bin\Debug\System.Collections.Immutable.xml
+D:\VisualStudio\SHOP\SHOP\bin\Debug\System.Memory.xml
+D:\VisualStudio\SHOP\SHOP\bin\Debug\System.Numerics.Vectors.xml
+D:\VisualStudio\SHOP\SHOP\bin\Debug\System.Reactive.xml
+D:\VisualStudio\SHOP\SHOP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\VisualStudio\SHOP\SHOP\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\VisualStudio\SHOP\SHOP\bin\Debug\System.ValueTuple.xml
+D:\VisualStudio\SHOP\SHOP\obj\Debug\SHOP.csproj.AssemblyReference.cache
+D:\VisualStudio\SHOP\SHOP\obj\Debug\SHOP.FrmDangNhap.resources
+D:\VisualStudio\SHOP\SHOP\obj\Debug\SHOP.frmkhohang.resources
+D:\VisualStudio\SHOP\SHOP\obj\Debug\SHOP.frmnhacungcap.resources
+D:\VisualStudio\SHOP\SHOP\obj\Debug\SHOP.frmnhaphang.resources
+D:\VisualStudio\SHOP\SHOP\obj\Debug\SHOP.frmquanlyhang.resources
+D:\VisualStudio\SHOP\SHOP\obj\Debug\SHOP.frmquanlynhanvien.resources
+D:\VisualStudio\SHOP\SHOP\obj\Debug\SHOP.frmtaodonhang.resources
+D:\VisualStudio\SHOP\SHOP\obj\Debug\SHOP.Properties.Resources.resources
+D:\VisualStudio\SHOP\SHOP\obj\Debug\SHOP.trangchu.resources
+D:\VisualStudio\SHOP\SHOP\obj\Debug\SHOP.csproj.GenerateResource.cache
+D:\VisualStudio\SHOP\SHOP\obj\Debug\SHOP.csproj.CoreCompileInputs.cache
+D:\VisualStudio\SHOP\SHOP\obj\Debug\SHOP.csproj.Up2Date
+D:\VisualStudio\SHOP\SHOP\obj\Debug\SHOP.exe
+D:\VisualStudio\SHOP\SHOP\obj\Debug\SHOP.pdb
